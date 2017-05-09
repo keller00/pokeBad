@@ -5,7 +5,7 @@ It features save and load features, interaction with objects and working battle 
 Credits: Dayle Chapman & Mark Keller
 
 Things that never got finished:
-*Label creation for battle screen (it works but all of the pokemons can only simple attack and nothing is displayed) 
-*Item system
-*More fluid movement of main character
-*Work on varying screen sizes
+  *Label creation for battle screen (it works but all of the pokemons can only simple attack and nothing is displayed) 
+  *Item system
+  *More fluid movement of main character
+  *Work on varying screen sizes
